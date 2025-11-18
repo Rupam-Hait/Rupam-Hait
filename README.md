@@ -27,12 +27,6 @@
 
 ---
 
-
-## 📝 Featured Projects
-- [Awesome Project 1](https://github.com/Rupam-Hait/project1)
-- [Cool Repo 2](https://github.com/Rupam-Hait/project2)
-- [Interesting Tool](https://github.com/Rupam-Hait/project3)
-
 ## 📊 GitHub Stats
 ![Rupam Hait's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rupam-Hait&show_icons=true&theme=radical)
 
@@ -47,6 +41,6 @@
 
 ---
 
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+
 
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Rupam-Hait)
