@@ -4,9 +4,15 @@
 ### 💻 Developer | 🚀 Open Source Enthusiast
 
 ---
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F7971E&center=true&vCenter=true&multiline=true&width=600&lines=C%2B%2B+Programmer;CSE+Student;Cricket+Enthusiast;Science+Research+Lover;Welcome+to+my+profile!" alt="Typing SVG" />
-</p>
+
+
+
+
+
+
+
+
+
 ## 🌟 About Me
 - 🎓 2nd Year CSE Student at MCKV Institute of Engineering.
 - 💡 Passionate about **Web Development & AI**
