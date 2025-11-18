@@ -1,4 +1,4 @@
-![Welcome Banner](https://i.imgur.com/YOUR_IMAGE.png)
+<img width="1700" height="460" alt="github-header-banner (1)" src="https://github.com/user-attachments/assets/ded1f1d6-cab7-41de-aa84-de09200343ba" />
 
 # 👋 Hi there, I'm Rupam Hait!
 ### 💻 Developer | 🚀 Open Source Enthusiast
@@ -6,16 +6,19 @@
 ---
 
 ## 🌟 About Me
-- 🧑‍💻 Passionate about coding and solving problems.
-- 🎯 Interests: Web development, Open Source, Innovative Tech.
-- 📚 Always learning something new.
+- 🎓 2nd Year CSE Student at MCKV Institute of Engineering.
+- 💡 Passionate about **Web Development & AI**
+- ✨ Love to design, code & explore tech.
 - 🤝 Looking to collaborate on exciting projects!
 
-## 🛠️ Skills
-![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white)
-<!-- Add more skills if you wish -->
+
+### 🛠️ Languages & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,js,c,c++" />
+</p>
+
+---
+
 
 ## 📝 Featured Projects
 - [Awesome Project 1](https://github.com/Rupam-Hait/project1)
@@ -30,7 +33,7 @@
 - 🏅 Contributed to popular public repositories.
 
 ## 📫 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/yourprofile)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/Rupam-Hait)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/yourprofile)
 <!-- Add other social links if you want -->
 
