@@ -24,21 +24,9 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c++,java,python,js,c,html,css" />
  
----
-## 📊 GitHub Stats
-![Rupam Hait's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rupam-Hait&show_icons=true&theme=radical)
+
 
 ## 🎖️ Achievements
 - 🌐 Built and maintained several open-source tools.
 - 🏅 Contributed to popular public repositories.
 
-## 📫 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/Rupam-Hait)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/yourprofile)
-<!-- Add other social links if you want -->
-
----
-
-
-
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Rupam-Hait)
