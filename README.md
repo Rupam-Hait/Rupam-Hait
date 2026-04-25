@@ -5,14 +5,6 @@
 
 ---
 
-
-
-
-
-
-
-
-
 ## 🌟 About Me
 - 🎓 2nd Year CSE Student at MCKV Institute of Engineering.
 - 💡 Passionate about **Web Development & AI**
