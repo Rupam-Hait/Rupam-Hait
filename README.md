@@ -1,6 +1,6 @@
 <img width="1700" height="460" alt="github-header-banner (1)" src="https://github.com/user-attachments/assets/ded1f1d6-cab7-41de-aa84-de09200343ba" />
 
-# 👋 Hi there, I'm Rupam Hait!
+# 👋 Hi there, myself Rupam
 ### 💻 Developer | 🚀 Open Source Enthusiast
 
 ---
