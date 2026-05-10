@@ -2,9 +2,7 @@
 
 # 👋 Hi there, myself Rupam
 ### 💻 Developer | 🚀 Open Source Enthusiast
-
 ---
-
 ## 🌟 About Me
 - 🎓 2nd Year CSE Student at MCKV Institute of Engineering.
 - 💡 Passionate about **Web Development & AI**
@@ -16,8 +14,6 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c++,java,python,js,c,html,css" />
  
-
-
 ## 🎖️ Achievements
 - 🌐 Built and maintained several open-source tools.
 - 🏅 Contributed to popular public repositories.
