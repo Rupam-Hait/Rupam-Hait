@@ -1,6 +1,12 @@
-<img width="1700" height="460" alt="github-header-banner" src="https://github.com/user-attachments/assets/ded1f1d6-cab7-41de-aa84-de09200343ba" />
 
-# 🚀 Hey there! I'm **Rupam** 
+<h1 align="center">  
+  <p align="center">
+    <img src="assets/rupam_hait_header.jpg" width="100%" alt="Rupam Hait Header"
+      style="border-radius: 15px; box-shadow: inset 0 -50px 100px rgba(0, 0, 0, 0.4);" />
+  </p>
+
+  <img src="https://readme-typing-svg.herokuapp.com?font=Unbounded&weight=800&size=36&duration=1200&pause=400&color=74C0FC&center=true&vCenter=true&width=850&lines=Hey+there+👋;I+am+Rupam+Hait;Coder+%7C+Gamer+%7C+Designer;LOADING...;System+Online+✅" />
+</h1>
 
 ### 💻 Full-Stack Developer | 🎨 Creative Coder | 🌟 Open Source Enthusiast
 
@@ -9,10 +15,10 @@
 ## ✨ Who Am I?
 
 ```
-🎓 2nd Year CSE @ MCKV Institute of Engineering
-💡 Obsessed with Web Development & AI/ML
-🔥 Building cool stuff with code
-🎯 Always learning, always building
+🎓 2nd Year CSE student at @ MCKV Institute of Engineering.
+💡 Obsessed with Web Development & AI/ML.
+🔥 Building cool stuff with code.
+🎯 Always learning, always building.
 🤝 Ready to collaborate on mind-blowing projects!
 ```
 
