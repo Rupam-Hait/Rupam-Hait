@@ -1,8 +1,10 @@
 
+
+
 <h1 align="center">  
   <p align="center">
-    <img src="assets/rupam_hait_header.jpg" width="100%" alt="Rupam Hait Header"
-      style="border-radius: 15px; box-shadow: inset 0 -50px 100px rgba(0, 0, 0, 0.4);" />
+   <img width="2125" height="575" alt="github-header-banner" src="https://github.com/user-attachments/assets/59351fc3-47af-4dae-a66b-a19e94e9f947" />
+
   </p>
 
   <img src="https://readme-typing-svg.herokuapp.com?font=Unbounded&weight=800&size=36&duration=1200&pause=400&color=74C0FC&center=true&vCenter=true&width=850&lines=Hey+there+👋;I+am+Rupam+Hait;Coder+%7C+Gamer+%7C+Designer;LOADING...;System+Online+✅" />
@@ -79,7 +81,7 @@
 
 ## 🎮 Featured Projects
 
-> Check out my [repositories](https://github.com/Rupam-hait?tab=repositories) for amazing projects! 🚀
+> Check out my [repositories](https://github.com/Rupam-Hait/EMERGENCY-RESPONSE-TRIAGE-ASSISTANT) for amazing projects! 🚀
 
 ---
 
