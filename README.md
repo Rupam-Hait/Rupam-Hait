@@ -1,13 +1,12 @@
 
 
-
 <h1 align="center">  
   <p align="center">
    <img width="2125" height="575" alt="github-header-banner" src="https://github.com/user-attachments/assets/59351fc3-47af-4dae-a66b-a19e94e9f947" />
 
   </p>
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Unbounded&weight=800&size=36&duration=1200&pause=400&color=74C0FC&center=true&vCenter=true&width=850&lines=Hey+there+👋;I+am+Rupam+Hait;Coder+%7C+Gamer+%7C+Designer;LOADING...;System+Online+✅" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Unbounded&weight=800&size=36&duration=1200&pause=400&color=74C0FC&center=true&vCenter=true&width=850&lines=Hey+there+👋;I+am+Rupam+Hait;Creative+Coder;Always+Learning" />
 </h1>
 
 ### 💻 Full-Stack Developer | 🎨 Creative Coder | 🌟 Open Source Enthusiast
@@ -74,6 +73,10 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rupam-hait&show_icons=true&theme=tokyonight&count_private=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rupam-hait&layout=compact&theme=tokyonight)
+
+![Contribution Graph](https://github-readme-stats.vercel.app/api/wakatime?username=Rupam-hait&theme=tokyonight)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rupam-hait&theme=tokyonight)
 
 </div>
 
