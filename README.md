@@ -1,12 +1,8 @@
-
-
 <h1 align="center">  
   <p align="center">
-   <img width="2125" height="575" alt="github-header-banner" src="https://github.com/user-attachments/assets/59351fc3-47af-4dae-a66b-a19e94e9f947" />
-
+    <img width="1536" height="1024" alt="Tech student creativ" src="https://github.com/user-attachments/assets/8c41fe66-5494-434f-a569-c240a46bfc59" />
   </p>
-
-  <img src="https://readme-typing-svg.herokuapp.com?font=Unbounded&weight=800&size=36&duration=1200&pause=400&color=74C0FC&center=true&vCenter=true&width=850&lines=Hey+there+👋;I+am+Rupam+Hait;Creative+Coder;Always+Learning" />
+   <img src="https://readme-typing-svg.herokuapp.com?font=Unbounded&weight=800&size=36&duration=1200&pause=400&color=74C0FC&center=true&vCenter=true&width=850&lines=Hey+there+👋;I+am+Rupam+Hait;Coder+%7C+Gamer+%7C+Designer;Always+Learning" />
 </h1>
 
 ### 💻 Full-Stack Developer | 🎨 Creative Coder | 🌟 Open Source Enthusiast
