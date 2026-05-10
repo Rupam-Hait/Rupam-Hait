@@ -69,12 +69,6 @@
 ## 📈 My GitHub Activity
 
 <div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rupam-hait&show_icons=true&theme=tokyonight&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rupam-hait&layout=compact&theme=tokyonight)
-
-![Contribution Graph](https://github-readme-stats.vercel.app/api/wakatime?username=Rupam-hait&theme=tokyonight)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rupam-hait&theme=tokyonight)
 
