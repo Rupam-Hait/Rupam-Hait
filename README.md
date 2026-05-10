@@ -1,70 +1,105 @@
 <img width="1700" height="460" alt="github-header-banner" src="https://github.com/user-attachments/assets/ded1f1d6-cab7-41de-aa84-de09200343ba" />
 
-# 👋 Hi there, I'm Rupam
+# 🚀 Hey there! I'm **Rupam** 
 
-### 💻 Developer | 🚀 Open Source Enthusiast | 🌟 Tech Innovator
-
----
-
-## 🌟 About Me
-
-- 🎓 **2nd Year CSE Student** at MCKV Institute of Engineering
-- 💡 Passionate about **Web Development & Artificial Intelligence**
-- ✨ Love to **design, code & explore** emerging technologies
-- 🤝 **Looking to collaborate** on exciting and impactful projects
-- 🌱 Continuously learning and growing in the tech ecosystem
+### 💻 Full-Stack Developer | 🎨 Creative Coder | 🌟 Open Source Enthusiast
 
 ---
 
-## 🛠️ Languages & Tools
+## ✨ Who Am I?
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c++,java,python,js,c,html,css,react,nodejs,git,github" alt="Tech Stack" />
-</p>
-
-**Languages:** C++ | Java | Python | JavaScript | C | HTML | CSS
-
-**Technologies & Frameworks:** React | Node.js | Git | GitHub
-
----
-
-## 🎯 What I'm Working On
-
-- 🔨 Building innovative web applications
-- 📚 Exploring AI/ML concepts and applications
-- 🌐 Contributing to open-source projects
-- 💪 Strengthening my DSA and system design skills
+```
+🎓 2nd Year CSE @ MCKV Institute of Engineering
+💡 Obsessed with Web Development & AI/ML
+🔥 Building cool stuff with code
+🎯 Always learning, always building
+🤝 Ready to collaborate on mind-blowing projects!
+```
 
 ---
 
-## 🎖️ Achievements & Contributions
+## 🛠️ Tech Arsenal
 
-- 🌐 Built and maintained several **open-source tools**
-- 🏅 **Contributed** to popular public repositories
-- 📈 Active community participant and knowledge sharer
-- 🚀 Focused on creating **high-quality, impactful code**
+<div align="center">
+  
+**Languages**
+<br/>
+<img src="https://skillicons.dev/icons?i=cpp,java,python,javascript,c" />
 
----
+**Frontend**
+<br/>
+<img src="https://skillicons.dev/icons?i=react,html,css,js" />
 
-## 📊 GitHub Stats
+**Backend & Tools**
+<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,git,github,vscode" />
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rupam-hait&show_icons=true&theme=radical)
-
----
-
-## 🤝 Let's Connect!
-
-- 💼 **LinkedIn:** [Connect with me](https://linkedin.com)
-- 🐦 **Twitter:** [@Rupam_hait](https://twitter.com)
-- 📧 **Email:** [reach out](mailto:rupamhait@example.com)
-- 💬 **Open to:** Collaborations, Open Source Contributions, Freelance Projects
+</div>
 
 ---
 
-## 💭 My Development Philosophy
+## 🎯 Currently Exploring
 
-> "Code is poetry. Every line should serve a purpose, be readable, and inspire others to write better code."
+- 🚀 Building **next-gen web applications** 
+- 🤖 Diving deep into **AI & Machine Learning**
+- 🌐 Contributing to **awesome open-source projects**
+- 💪 Mastering **Data Structures & Algorithms**
+- 🎨 Creating **beautiful & functional UIs**
 
 ---
 
-**⭐ If you like my work, don't forget to give it a star! ⭐**
+## 🏆 Highlights
+
+```
+🌐 Multiple open-source contributions
+📱 Built several impactful projects  
+🔥 Active in tech community
+⭐ Passionate problem solver
+```
+
+---
+
+## 📈 My GitHub Activity
+
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rupam-hait&show_icons=true&theme=tokyonight&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rupam-hait&layout=compact&theme=tokyonight)
+
+</div>
+
+---
+
+## 🎮 Featured Projects
+
+> Check out my [repositories](https://github.com/Rupam-hait?tab=repositories) for amazing projects! 🚀
+
+---
+
+## 💬 Let's Connect & Collaborate!
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rupamhait@example.com)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rupam-hait)
+
+</div>
+
+---
+
+<div align="center">
+
+### 🌟 *"Great code is written by great coders. Keep coding, keep learning!"* 🌟
+
+**⭐ Drop a star if you find something interesting! ⭐**
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Rupam-hait&style=flat-square&color=blue" alt="Profile Views" />
+</div>
