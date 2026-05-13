@@ -75,9 +75,7 @@
 ## 🎮 Featured Projects
 
 > Check out my [repositories](https://github.com/Rupam-Hait/EMERGENCY-RESPONSE-TRIAGE-ASSISTANT) for amazing projects! 🚀
-
 ---
-
 <div align="center">
 
 ### 🌟 *"Great code is written by great coders. Keep coding, keep learning!"* 🌟
