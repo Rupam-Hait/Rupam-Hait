@@ -1,6 +1,6 @@
 <h1 align="center">  
   <p align="center">
-    <img width="1536" height="1024" alt="Tech student creativ" src="https://github.com/user-attachments/assets/8c41fe66-5494-434f-a569-c240a46bfc59" />
+    <img width="1536" height="571" alt="Tech student creativ" src="https://github.com/user-attachments/assets/6cc9b009-bda4-4c0e-b045-a20000829e68" />
   </p>
    <img src="https://readme-typing-svg.herokuapp.com?font=Unbounded&weight=800&size=36&duration=1200&pause=400&color=74C0FC&center=true&vCenter=true&width=850&lines=Hey+there+👋;I+am+Rupam+Hait;Coder+%7C+Gamer+%7C+Designer;Always+Learning" />
 </h1>
