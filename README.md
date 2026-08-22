@@ -12,7 +12,7 @@
 ## ✨ Who Am I?
 
 ```
-🎓 2nd Year CSE student at @ MCKV Institute of Engineering.
+🎓 3rd Year CSE student at @ MCKV Institute of Engineering.
 💡 Obsessed with Web Development & AI/ML.
 🔥 Building cool stuff with code.
 🎯 Always learning, always building.
